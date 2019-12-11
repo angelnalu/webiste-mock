@@ -1,0 +1,2 @@
+# webiste-mock
+Simple exercise.
