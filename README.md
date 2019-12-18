@@ -1,2 +1,2 @@
 # webiste-mock
-Simple exercise...
+Simple exercise...!
